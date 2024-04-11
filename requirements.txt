@@ -7,3 +7,4 @@ openai==0.27.5
 pycord==0.1.1
 requests==2.25.0
 algoliasearch==3.0.0
+pytz==2020.4
